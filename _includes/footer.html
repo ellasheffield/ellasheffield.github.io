@@ -12,7 +12,7 @@
         </ul>
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        {{ site.footer_note | default: site.description | markdownify }}
       </div>
     </div>
 

@@ -17,10 +17,18 @@ title: Ella Sheffield
 author: Ella Sheffield
 email: "" # TODO: add your email
 description: >- # this means to ignore newlines until "baseurl:"
-  Site template from my super cool brother https://nathan-sheffield.github.io/.
+  Ella Sheffield's personal website.
+footer_note: "Site template from my [super cool brother](https://nathan-sheffield.github.io/)." # shown in the footer; markdown allowed
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ellasheffield.github.io" # the base hostname & protocol for your site
 github_username: ellasheffield
+
+# Order of tabs in the top nav
+header_pages:
+  - about.md
+  - papers.md
+  - photography.md
+  - writing.md
 
 # Build settings
 markdown: kramdown
