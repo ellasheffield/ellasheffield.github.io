@@ -106,18 +106,18 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 // Dark mode
 // ---------
 
-$dm-brand-color:           #c89ce2 !default;
+$dm-brand-color:           #f3d98b !default;
 $dm-brand-color-light:     lighten($dm-brand-color, 5%) !default;
 $dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
-//#8e38c0//
+
 
 $dm-site-title-color:      $dm-brand-color-light !default;
 
-$dm-text-color:            #c7b8d3 !default;
-$dm-background-color:      #232126 !default;
+$dm-text-color:            #efe7d6 !default;
+$dm-background-color:      #1f1c17 !default;
 $dm-code-background-color: #212121 !default;
 
-$dm-link-base-color:       #7b79ff !default;
+$dm-link-base-color:       #f2c14e !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
 $dm-link-hover-color:      $dm-text-color !default;
 

@@ -10,7 +10,7 @@ permalink: /about/
 
 Hi, I'm Ella! TODO: write a short intro here.
 
-A list of my papers is [here](/papers), and my blog is [here](/blog).
+A list of my papers is [here](/papers).
 
 Some things I'm interested in:
 
