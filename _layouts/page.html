@@ -1,0 +1,22 @@
+---
+layout: base
+---
+<article class="post">
+
+  <header class="post-header">
+    {%- if page.tagline -%}
+    <h1 class="page-heading"> "{{ page.tagline }}" </h1>
+  {%- endif -%}
+  {%- if page.subtitle -%}
+    <p class="page-subtitle"> {{ page.subtitle }}</p>
+  {%- endif -%}
+  {%- if page.tagline or page.subtitle -%}
+  <hr class = "header-line">
+  {%- endif -%}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
