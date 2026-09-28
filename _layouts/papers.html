@@ -111,7 +111,7 @@ layout: base
         color: #3a3020;
     }
     
-    /* Panel that shows Abstract, Notes, or Fable */
+    /* Panel that shows Abstract or Notes */
     .info-panel {
         display: none;
         padding-bottom: 20px;
@@ -248,7 +248,6 @@ layout: base
                     <div class="button-container">
                         <button class="info-button" data-target="abstract-{{ forloop.index }}"><i class="fas fa-crow"></i> Abstract</button>
                         <button class="info-button" data-target="notes-{{ forloop.index }}"><i class="fas fa-feather-alt"></i> Notes</button>
-                        <button class="info-button" data-target="fable-{{ forloop.index }}"><i class="fas fa-dragon"></i> Fable</button>
                         {%- if paper.slides -%}
                             <a href="{{ paper.slides }}" class="info-button" target="_blank"><i class="fas fa-chalkboard"></i> Slides</a>
                         {%- endif -%}
@@ -263,9 +262,6 @@ layout: base
                     </div>
                     <div id="notes-{{ forloop.index }}" class="info-panel">
                         {{ paper.notes | markdownify }}
-                    </div>
-                    <div id="fable-{{ forloop.index }}" class="info-panel">
-                        {{ paper.fable | markdownify }}
                     </div>
                 </div>
             </li>
