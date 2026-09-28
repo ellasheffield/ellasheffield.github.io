@@ -1,7 +1,7 @@
 ---
 title: "Design and Performance of 220 and 270 GHz Bandpass Filters for BICEP Array"
 link: "https://arxiv.org/abs/2608.00324"
-order: 3
+order: 5
 conference: "IEEE TAS 2026"
 authors: "A. Steiger, BICEP/Keck Collaboration (incl. E. Sheffield)"
 notes: ""

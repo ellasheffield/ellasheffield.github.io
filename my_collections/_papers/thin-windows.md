@@ -1,8 +1,8 @@
 ---
-title: "BICEP/Keck XIX: Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High Throughput Millimeter Wave Telescopes"
+title: "BICEP/Keck XIX: Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High-Throughput Millimeter-Wave Telescopes"
 link: "https://arxiv.org/abs/2411.10428"
-order: 2
-conference: "preprint"
+order: 4
+conference: "ApJ 2026"
 authors: "BICEP/Keck Collaboration (incl. E. Sheffield)"
 notes: ""
 ---
