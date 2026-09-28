@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-tagline: "TODO: a fun tagline"
+tagline: "Catch you on the blogotubes!"
 subtitle: About me
 permalink: /about/
 ---
-<!-- Add a photo at assets/logos/me.jpg and uncomment: -->
-<!-- ![picture-of-me](/assets/logos/me.jpg){: .profile} -->
+![picture-of-me](/assets/logos/ellaintree.jpg){: .profile}
 
-Hi, I'm Ella! TODO: write a short intro here.
+Hi, I'm Ella! I'm a senior at MIT in course 8 (physics), interested broadly in astronomy. A list of my papers is [here](/papers).
 
-A list of my papers is [here](/papers).
-
-Some things I'm interested in:
-
-- **Topic one**. A sentence or two about it.
-- **Topic two**. A sentence or two about it.
+Some other things I enjoy:
+- **Astrophotography**.
+- **Puzzles**.
+- **Firespinning**
+- **Exhibiting horse-like tendencies**
